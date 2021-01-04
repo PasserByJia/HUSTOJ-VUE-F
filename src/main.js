@@ -7,6 +7,10 @@ import 'element-ui/lib/theme-chalk/index.css';
 import router from './router'
 
 import './icons' // icon
+// import contribution from 'vue-contribution'
+// import 'vue-contribution/dist/vue-contribution.css';
+
+// Vue.use(contribution)
 
 Vue.use(ElementUI); //引入element-ui
 
